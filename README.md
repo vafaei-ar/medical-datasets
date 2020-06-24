@@ -17,7 +17,6 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
 * KNee OsteoArthritis Prediction (KNOAP2020) Challenge is about identifying which knees will develop symptomatic radiographic knee osteoarthritis within 6.5 years follow-up. More information is provided [here](https://knoap2020.grand-challenge.org/Home/). Registration may be needed.
 
 * The Learn2reg challenge, which builds on a popular [tutorial](https://learn2reg.github.io) in 2019, will be a simplified challenge design that removes many of the common pitfalls for learning and applying transformations. The data can either be individually or comprehensively addressed by participants and cover both intra- and inter-patient alignment, CT, ultrasound and MRI modalities, neuro-, thorax and abdominal anatomies and the four of the imminent challenges of medical image registration:
-
   1. learning from small datasets
   2. estimating large deformations
   3. dealing with multi-modal scans
