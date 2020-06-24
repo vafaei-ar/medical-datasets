@@ -21,6 +21,7 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
   2. estimating large deformations
   3. dealing with multi-modal scans
   4. learning from noisy annotations
+  
   you can find more information [here](https://learn2reg.grand-challenge.org/).
 
 
