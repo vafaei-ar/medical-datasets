@@ -24,7 +24,11 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
   
   you can find more information [here](https://learn2reg.grand-challenge.org/).
 
+*
 
+*
+
+*
 
 ## Surgical data science
 
