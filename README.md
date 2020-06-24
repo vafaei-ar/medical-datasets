@@ -18,10 +18,10 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
 
 * The Learn2reg challenge, which builds on a popular [tutorial](https://learn2reg.github.io) in 2019, will be a simplified challenge design that removes many of the common pitfalls for learning and applying transformations. The data can either be individually or comprehensively addressed by participants and cover both intra- and inter-patient alignment, CT, ultrasound and MRI modalities, neuro-, thorax and abdominal anatomies and the four of the imminent challenges of medical image registration:
 
-1. learning from small datasets
-2. estimating large deformations
-3. dealing with multi-modal scans
-4. learning from noisy annotations
+  1. learning from small datasets
+  2. estimating large deformations
+  3. dealing with multi-modal scans
+  4. learning from noisy annotations
 
 you can find more information [here](https://learn2reg.grand-challenge.org/).
 
