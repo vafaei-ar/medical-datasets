@@ -64,9 +64,61 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
 
   You can find more information [here](http://aapmchallenges.cloudapp.net/competitions/34) if you are interested.
 
+* Segmenting and tracking moving cells in time-lapse video sequences is a challenging task. You can find a challenge about this issue [here](http://celltrackingchallenge.net/).
+
+* The 2nd Diabetic Retinopathy – Grading and Image Quality Estimation Challenge is about  evaluation of algorithms for automated fundus image quality estimation and grading of diabetic retinopathy. More information is provided [here](https://isbi.deepdr.org/).
+
+* In the SIIM-ISIC Melanoma Classification challenge you will identify melanoma in images of skin lesions. In particular, you’ll use images within the same patient and determine which are likely to represent a melanoma. Using patient-level contextual information may help the development of image analysis tools, which could better support clinical dermatologists. You can find the challenge [here](https://www.kaggle.com/c/siim-isic-melanoma-classification?utm_medium=email&utm_source=gamma&utm_campaign=siim-email-launch).
+
+* Multi-Centre, Multi-Vendor & Multi-Disease Cardiac Image Segmentation Challenge (M&Ms) aims to contribute to the effort of building generalisable models that can be applied consistently across clinical centres. Furthermore, M&Ms will provide a reference dataset for the community to build and assess future generalisable models in CMR segmentation. You can find more information [here](https://www.ub.edu/mnms/).
+
+* AnDi: The anomalous diffusion challenge aims at bringing together a vibrating and multidisciplinary community of scientists working on this problem. The use of the same reference datasets will allow an unbiased assessment of the performance of published and unpublished methods for characterizing anomalous diffusion from single trajectories. More information can be found [here](https://competitions.codalab.org/competitions/23601#learn_the_details-overview).
+
+* MICCAI 2020: HEad and neCK TumOR segmentation challenge (HECKTOR) will be presented at the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention, October 4th to 8th, 2020. So you have time to follow it [here](https://www.aicrowd.com/challenges/hecktor).
+
+* In MoNuSAC challenge, participants will be provided with H&E stained tissue images of four organs with annotations of multiple cell-types including epithelial cells, lymphocytes, macrophages, and neutrophils. [here](https://monusac-2020.grand-challenge.org/) you can find more information and registration may be needed.
+
+* Endoscopy Computer Vision Challenge (EndoCV2020) includes two sub-challenges where each sub-challenge consists of detection, semantic segmentation and out-of-sample generalization tasks. More information is provided [here](https://endocv.grand-challenge.org/) and registration may be required.
+
+* The main goal of LNDB challenge is the automatic classification of chest CT scans according to the 2017 Fleischner society pulmonary nodule guidelines for patient follow-up recommendation. [here](https://lndb.grand-challenge.org/) you can find more information and registration may be required.
+
+* VerSe`20: Large Scale Vertebrae Segmentation Challenge includes two tasks:
+  1. Vertebra Labelling, comprised of localisation and identification of vertebrae.
+  2. Vertebra segmentation.
+  
+  More information is provided [here](https://verse2020.grand-challenge.org/Tasks/) and registration may be required.
+
+* The goal of the PAIP2020 challenge is to evaluate new and existing algorithms for the automated classification of molecular subtypes in colorectal cancer for whole-slide image analyses. You can find more informations [here](https://paip2020.grand-challenge.org/) and registration may be required.
+
+* MICCAI 2020 RibFrac Challenge: Rib Fracture Detection and Classification establishes a large-scale benchmark dataset to automatically detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans, which consists of 420 training CTs (all with fractures), 80 validation CTs (20 without fractures) and 160 evaluation CTs. Each annotation consists of a pixel-level mask of rib fracture regions (for serving detection), plus a 4-type classification. Both detection and classification tasks are involved in this challenge. An algorithmic challenge for rib fracture detection and classification is the elongated object shape. You can find more information [here](https://ribfrac.grand-challenge.org/). Registration may be required.
+
 * 
 
 * 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+
+
+
 
 ## Surgical data science
 
