@@ -92,9 +92,9 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
 
 * MICCAI 2020 RibFrac Challenge: Rib Fracture Detection and Classification establishes a large-scale benchmark dataset to automatically detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans, which consists of 420 training CTs (all with fractures), 80 validation CTs (20 without fractures) and 160 evaluation CTs. Each annotation consists of a pixel-level mask of rib fracture regions (for serving detection), plus a 4-type classification. Both detection and classification tasks are involved in this challenge. An algorithmic challenge for rib fracture detection and classification is the elongated object shape. You can find more information [here](https://ribfrac.grand-challenge.org/). Registration may be required.
 
-* Computed tomography ventilation imaging evaluation 2019 (CTVIE19): An AAPM Grand Challenge is about CTVIE19 and the goal is to determine which CT ventilation imaging algorithms best correlate with reference measures across a range of pulmonary pathologies. More information is available [here](http://aapmchallenges.cloudapp.net/competitions/35). 
+* Computed tomography ventilation imaging evaluation 2019 (CTVIE19): An AAPM Grand Challenge is about CTVIE19 and the goal is to determine which CT ventilation imaging algorithms best correlate with reference measures across a range of pulmonary pathologies. More information is available [here](). 
 
-* 
+* The main topic of the TN-SCUI2020 challenge is finding  automatic algorithms to accurately classify the thyroid nodules in ultrasound images. More information is provided [here](https://tn-scui2020.grand-challenge.org/).
 
 * 
 
@@ -134,5 +134,5 @@ You can find it [here](https://github.com/UCSD-AI4H/COVID-CT).
 ## UNDER STURY
 
 * https://grand-challenge.org: page 1 is done.
-*
+* https://sites.google.com/site/aacruzr/image-datasets
 
