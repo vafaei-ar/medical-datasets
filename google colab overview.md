@@ -10,7 +10,7 @@ It is similar to the jupyter notebook, however, shortcuts are different and the 
 
 ![uname](/pics/linux.png "Linux")
 
-![distro and version](ubuntu.png "Ubuntu")
+![distro and version](/pics/ubuntu.png "Ubuntu")
 
 
   * You have root access:
